@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.5.0](https://github.com/k1LoW/gocredits/compare/v0.1.0...v0.5.0) - 2026-09-26
+
 ## [v0.5.0](https://github.com/Songmu/gocredits/compare/v0.4.0...v0.5.0) - 2026-09-19
 
 - Bump Songmu/tagpr from 1.8.4 to 1.9.2 by @dependabot[bot] in https://github.com/Songmu/gocredits/pull/29
